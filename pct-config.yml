@@ -1,0 +1,11 @@
+---
+template:
+  id: template-peter
+  author: petergmurphy
+  type: item
+  display: Peter's Template
+  version: 0.1.0
+  url: https://github.com/petergmurphy/template-peter
+
+puppet_class:
+  module_name: module_name
