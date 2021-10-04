@@ -1,9 +1,9 @@
 ---
 template:
-  id: template-peter
-  author: petergmurphy
-  type: item
-  display: Peter's Template
+  id: test-template
+  author: test-user
+  type: project
+  display: Test Template
   version: 0.1.0
   url: https://github.com/petergmurphy/template-peter
 
