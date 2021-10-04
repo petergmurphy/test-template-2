@@ -1,11 +1,11 @@
 ---
 template:
-  id: test-template-1
+  id: test-template-2
   author: test-user
   type: project
-  display: Test Template 1
+  display: Test Template 2
   version: 0.1.0
-  url: https://github.com/petergmurphy/test-template-1
+  url: https://github.com/petergmurphy/test-template-2
 
 puppet_class:
   module_name: module_name
